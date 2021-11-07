@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-😀 I'm a university student at HCMUT. 
-💻My major is: Computer Science (OISP).
-My hobbies: games🎮, music🎶, hanging out with friends🎉·
-❤It's a honor to collaborate with you.
+-😀 I'm a university student at HCMUT. 
+-💻My major is: Computer Science (OISP).
+-My hobbies: games🎮, music🎶, hanging out with friends🎉·
+-❤It's a honor to collaborate with you.
