@@ -5,5 +5,5 @@ Hi there 👋, I am Trần Duy Minh. Nice to meet you!!!
 - 🤔I’m looking for help with web development.
 - ❤It's a honor to collaborate with you.
 - 😋Personalities: eager to learn, friendly, hard-working.
-$ git push
+
 
