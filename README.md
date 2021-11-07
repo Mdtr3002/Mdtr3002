@@ -1,4 +1,4 @@
-Hi there 👋, I am Duy Minh. Nice to meet you!!!
+Hi there 👋, I am Trần Duy Minh. Nice to meet you!!!
 - 😀I'm a university student at HCMUT.
 - 💻My major is: Computer Science (OISP).
 -  My hobbies: games🎮, music🎶, hanging out with friends🎉·
