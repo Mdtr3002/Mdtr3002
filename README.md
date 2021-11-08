@@ -1,5 +1,5 @@
 Hi there 👋, I am Trần Duy Minh. Nice to meet you!!!
-- 😀I'm a university student at HCMUT.
+- 😀I'm a first year university student at HCMUT.
 - 💻My major is: Computer Science (OISP).
 - 🏠My hometown: Cần Thơ.
 -  My hobbies: games🎮, music🎶, hanging out with friends🎉·
