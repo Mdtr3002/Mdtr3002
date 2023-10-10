@@ -1,6 +1,6 @@
 Hi there 👋, I am Trần Duy Minh. Nice to meet you!!!
-- Age: 18😏.
-- 😀I'm a first year university student at HCMUT.
+- Age: 20😏.
+- 😀I'm a third year university student at HCMUT.
 - 💻My major is: Computer Science (OISP).
 - 🏠My hometown: Cần Thơ.
 -  My hobbies: games🎮, music🎶, hanging out with friends🎉·
